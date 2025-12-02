@@ -34,8 +34,8 @@ graph TD
     end
 
     subgraph "RetailLoop Product"
-        BFF[RetailLoop API (BFF)]
-        DB[(Plugin State DB)]
+        BFF["RetailLoop API (BFF)"]
+        DB[("Plugin State DB")]
     end
 
     subgraph "NovaEco Cloud"
