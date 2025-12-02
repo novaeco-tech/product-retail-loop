@@ -1,9 +1,3 @@
-Here is the comprehensive `README.md` for **`product-retail-loop`**.
-
-This document positions the product as a "Headless Plugin" that injects circular functionality (Resale, Take-back, Repair) into existing e-commerce platforms like Shopify, WooCommerce, or Magento.
-
------
-
 # 🛍️ RetailLoop
 
 > **The "One-Click Resale" Plugin for E-commerce.**
